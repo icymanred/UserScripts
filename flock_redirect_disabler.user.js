@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name          flock_redirect_disabler
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-14
 // @description  try to take over the world!
