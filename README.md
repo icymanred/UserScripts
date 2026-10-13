@@ -4,3 +4,4 @@ Personal Userscripts for TamperMonkey
 2. Automatically redirects you to the wiki.gg page of any Satisfactory fandom page ( as the fandom one is outdated but still appears at the top of search results) [Install](https://github.com/icymanred/UserScripts/raw/refs/heads/main/Satisfactory%20Fandom%20Redirecter.user.js)
 3. Removes blur from old slack messages [Install](https://github.com/icymanred/UserScripts/raw/refs/heads/main/Slack%20old%20message%20unblur-2025-03-19.user.js) 
 4. Stops flock subdomains from auto redirecting you to the login page [Install](https://github.com/icymanred/UserScripts/raw/refs/heads/main/flock_redirect_disabler.user.js)
+5. Bypass for savemyexams that allows you to view unlimited revision notes [Install](https://github.com/icymanred/UserScripts/raw/refs/heads/main/savemyexams%20unlimited%20views.user.js)
